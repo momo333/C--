@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414677808 source:c:\codeblocks\new projects\rnp notation\main.cpp
+	<iostream>
+	<stack>
+	<fstream>
+	<string>
+
