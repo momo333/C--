@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1414845364 source:c:\codeblocks\new projects\asterix\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+
+1414845364 source:c:\codeblocks\new projects\numbers\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+
